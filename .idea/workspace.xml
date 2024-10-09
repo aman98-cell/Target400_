@@ -1,18 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb8b7cef-ed8b-4777-a9c9-fc0850a4ff24" name="Changes" comment="" />
+    <list default="true" id="cb8b7cef-ed8b-4777-a9c9-fc0850a4ff24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/215. Kth Largest Element in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/217. Contains Duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33. Search in Rotated Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42. Trapping Rain Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chocolate Distribution Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse the Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Target400.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Target400_.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList 141. Linked List Cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList 141. Linked List Cycle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList 206. Reverse Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList 206. Reverse Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList Remove duplicates from unsorted list.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList Remove duplicates from unsorted list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList Sort a linked list of 0s-1s-or-2s.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList Sort a linked list of 0s-1s-or-2s.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aman98-cell&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aman98-cell/Target400.git&quot;,
+    &quot;accountId&quot;: &quot;cbb22d6a-859e-4bc9-9ff7-36e6e2069648&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2mv2WYxXSsED19OG6Wcvz4SzQc1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,13 +59,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.121. Best Time to Buy and Sell Stock.executor": "Run",
+    "Python.215. Kth Largest Element in an Array.executor": "Run",
+    "Python.217. Contains Duplicate.executor": "Run",
+    "Python.33. Search in Rotated Sorted Array.executor": "Run",
+    "Python.42. Trapping Rain Water.executor": "Run",
+    "Python.Chocolate Distribution Problem.executor": "Run",
+    "Python.Kadane's Algorithm Maximum Subarray.executor": "Run",
+    "Python.LinkedList 141. Linked List Cycle.executor": "Run",
+    "Python.LinkedList 21. Merge Two Sorted Lists.executor": "Run",
+    "Python.LinkedList Remove duplicates from unsorted list.executor": "Run",
+    "Python.LinkedList Sort a linked list of 0s-1s-or-2s.executor": "Run",
+    "Python.Reverse the Array.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/lenovo/PycharmProjects/Target400"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Target400" />
+    <configuration name="LinkedList Delete without Head node" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Target400_" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lenovo\PycharmProjects\Target400\LinkedList Delete without Head node.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,16 +118,5 @@
       <updated>1727942761908</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
